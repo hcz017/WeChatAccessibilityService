@@ -25,19 +25,17 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:src="#0000ff"
-        />
+        android:src="@color/colorPrimary" />
 
     <TextView
         android:layout_marginTop="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="下个版本想增加的功能："/>
+        android:text="@string/function_to_be_added"/>
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="动态设置微信控件ID"
-        />
+        android:hint="@string/dynamic_set_widget_id" />
 
 </LinearLayout>

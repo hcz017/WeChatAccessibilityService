@@ -10,10 +10,6 @@ import android.view.accessibility.AccessibilityNodeInfo;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by admin on 2016/12/20   .
- */
-
 public class RedEnvelopesAccessibilityService extends AccessibilityService {
 
     private List<AccessibilityNodeInfo> parents;
