@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeChat AccessibilityService</string>
+    <string name="description">由于微信版本的不同，拆红包的ID和返回按钮的ID可能不一样，所以我们需要根据不同版本的ID来修改代码</string>
+    <string name="label">微信6.3.32版自动抢红包</string>
+    <string name="card_title_conf_call">微信6.3.32版自动抢红包</string>
+    <string name="incall_option_text">I want to</string>
+    <string name="set_accessibility_enable">Set Accessibility Enable</string>
+    <string name="version_information">当前版本：V0.8</string>
+</resources>
